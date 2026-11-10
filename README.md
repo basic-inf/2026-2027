@@ -19,10 +19,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 1. [12/11/26] Le tecnologie informatiche nelle scienze umane
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/09.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-09)
    <hr />
 
 1. [13/11/26] Computer, pensiero computazionale e strutture dati
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/01.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-01)
    <hr />
 
 1. [18/11/26] Tutorial n.1
@@ -30,10 +32,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 1. [19/11/26] Algoritmi e computabilità
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/02.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-02)
    <hr />
 
 1. [20/11/26] Linguaggi di programmazione
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/03.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-03)
    <hr />
 
 1. [25/11/26] Tutorial n.2
@@ -41,10 +45,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 1. [26/11/26] Cosa succede quando si clicca un link: Il World Wide Web
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/04.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-04)
    <hr />
 
 1. [27/11/26] Cosa succede quando si clicca un link: I protocolli di comunicazione
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/05.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-05)
    <hr />
 
 1. [02/12/26] Tutorial n.3
@@ -52,10 +58,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 1. [03/12/26] Cosa succede quando si clicca un link: Internet
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/06.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-06)
    <hr />
 
 1. [04/12/26] Cosa succede quando si clicca un link: Trasferire informazioni su Internet
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/07.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-07)
    <hr />
 
 1. [09/12/26] Esercitazione diagrammi di flusso
@@ -63,9 +71,10 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 
 1. [10/12/26] Cosa succede quando si clicca un link: Le pagine web
    * capitolo: [PDF](https://basic-inf.github.io/2026-2027/chapters/08.pdf)
+   * slide: [Google Slides](https://tinyurl.com/bi1819-08)
    <hr />
 
-1. [11/12/26] Wrap-up
+1. [16/12/26] Wrap-up
    <hr />
 
 
@@ -87,6 +96,6 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
   <tr><td>04/12/26</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Trasferire informazioni su Internet</td></tr>
   <tr><td>09/12/26</td><td>15:00-17:00</td><td>Esercitazione diagrammi di flusso</td></tr>
   <tr><td>10/12/26</td><td>11:00-13:00</td><td>Cosa succede quando si clicca un link: Le pagine web</td></tr>
-  <tr><td>11/12/26</td><td>11:00-13:00</td><td>Wrap-up</td></tr>
+  <tr><td>16/12/26</td><td>15:00-17:00</td><td>Wrap-up</td></tr>
 </table>
     
