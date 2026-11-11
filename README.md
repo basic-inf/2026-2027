@@ -15,6 +15,7 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. [11/11/26] Introduzione al corso
+   * slide: [Google Slides](https://tinyurl.com/bi1819-00)
    <hr />
 
 1. [12/11/26] Le tecnologie informatiche nelle scienze umane
